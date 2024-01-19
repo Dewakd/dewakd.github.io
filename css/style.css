@@ -2776,6 +2776,11 @@ hr.border-2 {
 .numbers {
   background-attachment: fixed;
 }
+
+.numbers h2{
+    margin-bottom: 50px;
+}
+
 .numbers .item img {
     position: absolute;
     width: 50%;
